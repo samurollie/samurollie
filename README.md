@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0): an extension project to suport girls in computing
 - 👯 Who run the code?! **GIRLS!** -->
 - :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
-- 💬 Ask me about anything...especially romance books, anime and coffee ;-)
+- 💬 Ask me about anything...especially Minecraft, Kpop and ficction books ;-)
 - :purple_heart: Pronouns: He/Him
 <!-- - ⚡ Fun fact: My name comes from Greek and means *peace*. -->
 
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <hr>
 
 <div align="center">
-    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=samurollie&show_icons=true&theme=dracula">
-    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=dracula">
+    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=samurollie&show_icons=true&theme=tokyonight">
+    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=tokyonight">
 </div>
 
 
