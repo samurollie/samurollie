@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :computer: I’m currently learning mobile development with React Native 
 - :rocket: I'm a participant in a technological innovation project: [TATU](https://projetotatu.com.br)
-<!-- - :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0): an extension project to suport girls in computing
-- 👯 Who run the code?! **GIRLS!** -->
-- :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
+- 🌱 I’m currently learning game development and mobile development with react native
+- :sparkles: I really think we all can make a huge difference in people's lives. And I particularly **love** to use technology for this.
 - 💬 Ask me about anything...especially Minecraft, Kpop and ficction books ;-)
 - :purple_heart: Pronouns: He/Him
 <!-- - ⚡ Fun fact: My name comes from Greek and means *peace*. -->
@@ -32,11 +31,16 @@ Here are some ideas to get you started:
 - Email: slvlb@ic.ufal.br
 - [Linkedin](https://www.linkedin.com/in/samuel-lucas-34aa6b1bb/)
 
-<hr>
 
-<div align="center">
-    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=samurollie&show_icons=true&theme=tokyonight">
-    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=tokyonight">
+## My Github stats:
+
+![Samurollie Github Status](https://github-readme-stats.vercel.app/api?username=samurollie&show_icons=true&theme=tokyonight&count_private=true)
+
+![Samurollie Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=tokyonight&count_private=true)
+
+<!-- <div>
+    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=samurollie&show_icons=true&theme=tokyonight&count_private=true">
+    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=tokyonight&count_private=true">
 </div>
-
+ -->
 
