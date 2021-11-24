@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :computer: I’m currently learning mobile development with React Native 
 - :rocket: I'm a participant in a technological innovation project: [TATU](https://projetotatu.com.br)
 - :sparkles: I really think we all can make a huge difference in people's lives. And I particularly **love** to use technology for this.
-- 💬 Ask me about anything...especially Minecraft, Kpop and ficction books ;-)
+- 💬 Ask me about anything...especially Minecraft and Kpop ;-)
 - :purple_heart: Pronouns: He/Him
 <!-- - ⚡ Fun fact: My name comes from Greek and means *peace*. -->
 
