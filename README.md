@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img align="right" alt="GIF" src="assets/steven.gif"/>
 
 ## Hello world!
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about anything...especially Minecraft and Kpop ;-) -->
 - :purple_heart: Pronouns: He/Him
 <!-- - ⚡ Fun fact: My name comes from Greek and means *peace*. -->
+
 
 ## My Github stats:
 
