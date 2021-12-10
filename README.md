@@ -1,6 +1,5 @@
-### Hi, I'm Samuel!
+# Hi, I'm Samuel!
 
-<hr>
 <!--
 **samurollie/samurollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
