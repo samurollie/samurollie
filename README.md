@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 ![Samurollie Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=samurollie&layout=compact&theme=tokyonight&count_private=true)
 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samurollie&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=663BDD&ring=663BDD&currStreakLabel=663BDD)](https://git.io/streak-stats) -->
+
 ## :sparkles: How to reach me: 
 
 - Email: slvlb@ic.ufal.br
