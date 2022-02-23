@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="assets/steven.gif"/>
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
-- :computer: I’m currently learning mobile development with React Native 
+- :computer: I’m currently learning mobile development with Flutter
 - :rocket: I'm a participant in a technological innovation project: [TATU](https://projetotatu.com.br)
 - :sparkles: I really think we all can make a huge difference in people's lives. And I particularly **love** to use technology for this.
 - :purple_heart: Pronouns: He/Him
