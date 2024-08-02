@@ -6,7 +6,9 @@
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :computer: My goal is to be a Full-stack **and** a game developer
-- :rocket: I'm a participant in a technological innovation project: [TATU](https://projetotatu.com.br)
+- :rocket: I'm a participant in the following technological innovation projects:
+- [TATU](https://projetotatu.com.br)
+- [Edge](https://www.edge.ufal.br/) Academy
 - :sparkles: I really think we all can make a huge difference in people's lives. And I particularly **love** to use technology for this.
 - :purple_heart: Pronouns: He/Him
 
